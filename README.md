@@ -2,9 +2,9 @@
   <img src="https://github.com/SalesforcePlatformGovernanceMethod/phase-d/blob/7016a1d0ce787edfef401872d72acaa5bfa76dd1/images/phase-d.png" title="Phase C">
 </p>
 
-## Phase D: Sharing &amp; Visibility
+# Phase D: Sharing &amp; Visibility
 
-**Declarative Sharing**
+## **Declarative Sharing**
 
 - [Salesforce Security Guide](https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/salesforce_security_guide.htm)
 
@@ -86,7 +86,7 @@
 
 - [Role and Territory Sharing Groups](https://help.salesforce.com/s/articleView?id=sf.users_role_terr_sharing_groups.htm&type=5)
 
-**Programmatic Sharing**
+## **Programmatic Sharing**
 
 **Apex Security And Sharing**
 
@@ -128,7 +128,7 @@
 
 - [Asynchronous Parallel Recalculation of Sharing Rules](https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/security_sharing_recalculating_parallel.htm)
 
-**Data Security**
+## **Data Security**
 
 - [Shield Platform Encryption](https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/security_pe_overview.htm)
 
