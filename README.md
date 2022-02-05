@@ -88,13 +88,13 @@
 
 **Programmatic Sharing**
 
-**_Apex Security And Sharing_**
+**Apex Security And Sharing**
 
 - [Apex Security Sharing](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_security_sharing_chapter.htm)
 
 - [Security In Salesforce](https://www.apexhours.com/security-in-salesforce/)
 
-**_Apex Sharing - Enforce Sharing rules_**
+**Apex Sharing - Enforce Sharing rules**
 
 - [Apex Sharing Rules](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_security_sharing_rules.htm)
 
@@ -102,7 +102,7 @@
 
 - [Apex Sharing - Enforce Object and Field Permissions](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_perms_enforcing.htm)
 
-**_Apex Sharing - SOQL Data Filtering_**
+**Apex Sharing - SOQL Data Filtering**
 
 - [Enforce Security With the stripInaccessible Method](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_with_security_stripInaccessible.htm)
 
@@ -114,15 +114,15 @@
 
 - [Apex Managed Sharing](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_bulk_sharing.htm)
 
-**Performance**
+## **Performance**
 
-**_Defer Sharing Calculations_**
+**Defer Sharing Calculations**
 
 - [Defer Sharing Rule Calculations](https://help.salesforce.com/s/articleView?id=sf.security_sharing_rule_recalculation.htm&type=5)
 
 - [Performace and Scalability](https://www.issacc.com/salesforce-sharing-and-visibility-designer-exam-preparation-performance-and-scalability/)
 
-**_Sharing Rule recalculation_**
+**Sharing Rule recalculation**
 
 - [Speed up Recalculation of Sharing Rules](https://help.salesforce.com/s/articleView?id=000325943&type=1)
 
