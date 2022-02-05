@@ -30,6 +30,10 @@
 
 - [Locking Down Record Access in Salesforce](https://developer.salesforce.com/blogs/engineering/2013/12/locking-down-record-access-in-salesforce)
 
+- [Manager Groups](https://help.salesforce.com/s/articleView?id=sf.users_managers_only.htm&type=5)
+
+- [Enhanced Folder Sharing](https://help.salesforce.com/s/articleView?id=sf.analytics_sharing_enable.htm&type=5)
+
 **Salesforce Teams**
 
 - [Account Teams in Salesforce Explained](https://www.sfdcpanther.com/account-team-in-salesforce/)
@@ -45,10 +49,6 @@
 - [Everything you Need to Know about Salesforce Queues](https://www.salesforceben.com/everything-you-need-to-know-about-salesforce-queues/)
 
 - [Create Case Queues](https://trailhead.salesforce.com/content/learn/projects/set-up-case-escalation-entitlements/create-case-queues-assignment-rule)
-
-- [Manager Groups](https://help.salesforce.com/s/articleView?id=sf.users_managers_only.htm&type=5)
-
-- [Enhanced Folder Sharing](https://help.salesforce.com/s/articleView?id=sf.analytics_sharing_enable.htm&type=5)
 
 **Implicit Sharing**
 
